@@ -1,0 +1,161 @@
+body {
+  font-family:Sans-serif;
+}
+
+.links {
+  text-align:center;
+  position:relative;
+  top:40px;
+}
+
+#greeting {
+  font-size:9vw;
+  text-align:left;
+  position:absolute;
+  margin-left:15%;
+  top:45%;
+}
+
+h1 {
+  text-align:left;
+  font-size:75px;
+  position:relative;
+  margin-left:25%;
+  margin-top:auto;
+  top:40px;
+}
+
+#blog, #blogSub {
+  margin-left:10%;
+  margin-right:10%;
+}
+
+.blogPost {
+  margin-left:25%;
+  margin-right:25%;
+}
+
+.blogPost:hover {
+  background-color:#ededed;
+  cursor:pointer;
+}
+
+.blogTitle {
+  font-size:40px;
+  color:darkblue;
+  position:relative;
+  top:20px;
+}
+
+#Socials {
+  font-size:60px;
+  top:0px;
+}
+
+.title {
+  font-size:50px;
+  color:midnightblue;
+  text-align:left;
+  position:relative;
+  margin-left:25%;
+  margin-right:25%;
+  margin-top:auto;
+  margin-bottom:0px;
+}
+
+#firstTitle {
+  margin-top:80px;
+}
+
+span {
+  color:grey;
+}
+
+.links a {
+  margin:30px
+}
+
+p {
+  text-align:left;
+  font-size:30px;
+  position:relative;
+  margin-top:50px;
+  margin-left:25%;
+  margin-right:25%;
+}
+
+.blogText {
+  margin-left:0%;
+  margin-right:0%;
+}
+
+.blogDate {
+  font-size:20px;
+}
+
+ul {
+  font-size:30px;
+  position:relative;
+  margin-left:25%;
+  margin-right:25%;
+}
+
+img {
+  position:relative;
+  margin-left:25%;
+  margin-right:25%;
+  width:48vw;
+}
+.projects {
+  margin-top:20px;
+}
+
+mark {
+  background-color:lightskyblue;
+  color:#212121;
+}
+
+button {
+  text-align:left;
+  font-size:30px;
+  background-color: transparent;
+  cursor: pointer;
+  margin-top:40px;
+  margin-left:25%;
+  margin-right:25%;
+  padding:10px;
+}
+
+
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+  transition:.5s;
+}
+
+mark:hover {
+  background-color:#71acd0;
+  transition:2s;
+}
+
+button:hover {
+  background-color: grey;
+  text-decoration: none;
+  transition:1.5s;
+}
+
+a:active {
+  color: blue;
+  text-decoration: none;
+}
